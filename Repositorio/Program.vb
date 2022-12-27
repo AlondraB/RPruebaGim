@@ -2,6 +2,7 @@ Imports System
 
 Module Program
     Sub Main(args As String())
-        Console.WriteLine("Hello World!")
+        Console.WriteLine("soy alondra y estoy zoquete!")
     End Sub
+
 End Module
